@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vetcare-app/static/css/main.084a3364.css",
-    "main.js": "/vetcare-app/static/js/main.17edc23a.js",
+    "main.js": "/vetcare-app/static/js/main.050d7e02.js",
     "index.html": "/vetcare-app/index.html",
     "main.084a3364.css.map": "/vetcare-app/static/css/main.084a3364.css.map",
-    "main.17edc23a.js.map": "/vetcare-app/static/js/main.17edc23a.js.map"
+    "main.050d7e02.js.map": "/vetcare-app/static/js/main.050d7e02.js.map"
   },
   "entrypoints": [
     "static/css/main.084a3364.css",
-    "static/js/main.17edc23a.js"
+    "static/js/main.050d7e02.js"
   ]
 }
